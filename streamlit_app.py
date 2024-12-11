@@ -79,18 +79,18 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/874ZFxn/image.webp"
-            #"https://via.placeholder.com/300?text=Label1_Image2",
-            #"https://via.placeholder.com/300?text=Label1_Image3"
+            "https://via.placeholder.com/300?text=Label1_Image2",
+            "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            #"https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            #"https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
             "골든 리트리버",
-            #"Label 1 관련 두 번째 텍스트 내용입니다.",
-            #"Label 1 관련 세 번째 텍스트 내용입니다."
+            "Label 1 관련 두 번째 텍스트 내용입니다.",
+            "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
