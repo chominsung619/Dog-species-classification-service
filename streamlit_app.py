@@ -43,7 +43,7 @@ def display_right_content(prediction, data):
     # 1st Row - Images
     for i in range(3):
         with cols[i]:
-            st.image(data['images'][i], caption=f"이미지: {prediction}", use_column_width=True,width=300)
+            st.image(data['images'][i], caption=f"이미지: {prediction}", use_column_width=300)
     # 2nd Row - YouTube Videos
     for i in range(3):
         with cols[i]:
