@@ -43,7 +43,7 @@ def display_right_content(prediction, data):
     # 1st Row - Images
     for i in range(3):
         with cols[i]:
-            st.image(data['images'][i], caption=f"이미지: {prediction}", use_column_width=300)
+            st.image(data['images'][i], caption=f"이미지: {prediction}", use_column_width=True)
     # 2nd Row - YouTube Videos
     for i in range(3):
         with cols[i]:
@@ -88,7 +88,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "골든 리트리버버",
+            "골든 리트리버",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
@@ -105,7 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "닥스훈트트",
+            "닥스훈트",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -139,7 +139,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "래브라도 리트리버버",
+            "래브라도 리트리버",
             "Label 4 관련 두 번째 텍스트 내용입니다.",
             "Label 4 관련 세 번째 텍스트 내용입니다."
         ]
@@ -258,7 +258,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "삽살게",
+            "삽살개개",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -564,7 +564,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "프렌치 불독독",
+            "프렌치 불독",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
