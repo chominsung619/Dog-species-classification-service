@@ -37,7 +37,7 @@ def display_left_content(image, prediction, probs, labels):
         """, unsafe_allow_html=True)
 
 def display_right_content(prediction, data):
-    st.write("### 관련 자료")
+    st.write("### 관련 자료 및 설명")
     cols = st.columns(3)
 
     # 1st Row - Images
