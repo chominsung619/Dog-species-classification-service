@@ -1,5 +1,3 @@
-#분류 결과 + 이미지 + 텍스트와 함께 분류 결과에 따라 다른 출력 보여주기
-#파일 이름 streamlit_app.py
 import streamlit as st
 from fastai.vision.all import *
 from PIL import Image
@@ -9,7 +7,7 @@ import gdown
 file_id = '1I-bafgaRgOnsMVcHCOVASjo1Ng3XbnrL'
 
 # Google Drive에서 파일 다운로드 함수
-@st.cache_resource(allow_output_mutation=True)
+@st.cache_resource
 def load_model_from_drive(file_id):
     url = f'https://drive.google.com/uc?id={file_id}'
     output = 'model.pkl'
@@ -581,6 +579,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     img = PILImage.create(uploaded_file)
     prediction, _, probs = learner.predict(img)
+    probs = probs.tolist()  # 텐서를 리스트로 변환
 
     with left_column:
         display_left_content(image, prediction, probs, labels)
