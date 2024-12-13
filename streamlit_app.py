@@ -93,7 +93,7 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/GT8zJRN/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -110,7 +110,7 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
+            "https://i.ibb.co/Xbqv83w/image.jpg",
             "https://via.placeholder.com/300?text=Label3_Image2",
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
@@ -127,7 +127,7 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
+            "https://i.ibb.co/rw3CkYc/image.jpg",
             "https://via.placeholder.com/300?text=Label3_Image2",
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
@@ -144,7 +144,7 @@ content_data = {
     },
     labels[4]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/KL5Xq2M/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -161,7 +161,7 @@ content_data = {
     },
     labels[5]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/R7KyyzQ/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -178,7 +178,7 @@ content_data = {
     },
     labels[6]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/6X2qrH4/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -195,7 +195,7 @@ content_data = {
     },
     labels[7]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/Gn405Wx/qpemffldxjs-xpfldj.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -212,7 +212,7 @@ content_data = {
     },
     labels[8]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/HnjvrbN/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -229,7 +229,7 @@ content_data = {
     },
     labels[9]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/7yKPt4G/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
@@ -246,7 +246,7 @@ content_data = {
     },
     labels[10]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/vmDzH8x/image.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
