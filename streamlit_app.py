@@ -268,7 +268,7 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=6fSX35yz8_M",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
@@ -285,7 +285,7 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=9xmqNrpO8bE",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
