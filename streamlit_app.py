@@ -86,7 +86,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "원산지는 영국(스코틀랜드)으로 성격은 온순하며 대형견이다 수컷은 61cm에 34kg까지 자라며 암컷은 56cm에 30kg까지 자란다",
+            "원산지는 영국(스코틀랜드)으로 성격은 온순하며 대형견이다. 수컷은 61cm에 34kg까지 자라며 암컷은 56cm에 30kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -103,7 +103,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "닥스훈트",
+            "원산지는 독일로 성격은 사람을 잘 따른며 소형견이다. 수컷은 27cm 암컷은 24cm까지 자라며 암수 둘다 12kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -120,7 +120,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "도베르만 핀셔",
+            "원산지는 독일로 성격은 온순하고 호기심이 왕성하며 대형견이다. 수컷은 72cm에 45kg까지 자라며 암컷은 68cm에 35kg까지 자란다.",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
@@ -137,7 +137,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "래브라도 리트리버",
+            "원산지는 영국으로 성격은 온순하고 매우 영리하고 사람을 좋아하며 대현견이다. 수컷은 57cm에 34kg까지 자라며 암컷은 56cm에 32kg까지 자란다.",
             "Label 4 관련 두 번째 텍스트 내용입니다.",
             "Label 4 관련 세 번째 텍스트 내용입니다."
         ]
@@ -154,7 +154,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "말티즈",
+            "원산지는 유럽(몰타)으로 성격은 온화하고 지능이 높으며 소형견이다. 25cm에 3.3kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -171,7 +171,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "미니어쳐 슈나우저",
+            "원산지는 독일로 성격은 천진난만하고 호기심이 가득하며 소형견이다. 35cm에 7kg까지 자란다",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -188,7 +188,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "미니어쳐 핀셔",
+            "원산지는 독일로 성격은 쾌활하고 활발하지만 다소 신경질적이며 소형견이다. 30cm에 6kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -205,7 +205,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "베들링턴 테리어",
+            "원산지는 유럽(영국)으로 성격은 호기심이 왕성하고 주인에게는 애정이 깊지만, 섬세하고 신경질적이며 중형견이다. 수컷은 41cm 암컷은 41cm이하 정도로 자라며 암수모두 10.4kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -222,7 +222,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "비숑프리제",
+            "원산지는 벨기에와 프랑스로 성격은 명량하고 다정하고 감수성이 풍부하며 소형견이다. 30cm에 6kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -239,7 +239,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "사모예드",
+            "원산지는 러시아 북부 및 시베리아로 성격은 사람을 잘 따르고 외로움을 많이타며 중형견이다. 수컷은 60cm 암컷은 56cm까지 자라며 암수 둘다 30kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -256,7 +256,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "삽살개",
+            "원산지는 대한민국으로 성격은 인내심이 강하고 보호자에게 충직하며 중형견이다. 60cm에 32kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -273,7 +273,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "셰퍼드",
+            "원산지는 독일로 성격은 높은 지능을 가지고 있고 주인에게 충성하며 대형견이다. 수컷은 65cm에 40kg까지 자라며 암컷은 60cm에 32kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -290,7 +290,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "시베리안 허스키",
+            "원산지는 미국이며 성격을 쾌활하고 낙천적이고 주인에게 충성스러우며 대형견이다. 수컷은 60cm에 28kg까지 자라며 암컷은 56cm에 23kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -307,7 +307,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "시추",
+            "원산지는 중국으로 성격은 나이브하면서도 감정이나 표정은 오버하는 경향이 있으며 소형견이다. 26.7cm이하 8.1kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -324,7 +324,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "알래스탄 맬러뮤트",
+            "원산지는 미국(알래스카 지방)으로 성격은 온순하고 조용하며 대형견이다. 수컷은 63.5cm에 38kg까지 자라며 암컷은 58.5cm에 34kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -341,7 +341,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "오수개",
+            "원산지는 대한민국으로 현재는 그 실체가 불분명한 개로 복원 사업 중이나 여럿 논란이 있는 상태이다. 다만 2024년 8월 30일 전라북도 임실군에 따르면 유엔 식량농업기구(FAO) 가축다양성정보시스템에 오수개가 정식 품종으로 등재되었다고 밝혔다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -358,7 +358,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "요크셔 테리어",
+            "원산지는 영국으로 성격은 주인과 있으면 드세고 쾌활해지며 소형견이다. 23cm에 3.1kg이내까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -375,7 +375,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "웰시코기",
+            "원산지는 유럽(영국)으로 성격은 자신감있고 친절하며 중형견이다. 30cm에 17kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -392,7 +392,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "이탈리안 그레이 하운드",
+            "원산지는 이탈리아로 성격은 다정하고 애정이 깊지만 겁이 많으며 소형견이다. 38cm에 5kg이하까지 자란다",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -409,7 +409,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "재페니스 스피츠",
+            "원산지는 일본으로 성격은 쾌활하고 놀기 좋아하지만 낯가림이 심하며 소형견이다. 수컷은 38cm자라고 암컷은 수컷보다 약간 작으며 암수 모두 6kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -426,7 +426,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "잭 러셀 테리어",
+            "원산지는 영국으로 성격은 매우 활발하고 겁이 없으며 장난을 좋아하며 소형견이다. 30cm에 6kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -443,7 +443,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "진도개",
+            "원산지는 대한민국으로 성격은 영리하고 활동적이며 중형견이다. 53cm에 20.8kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -460,7 +460,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "치와와",
+            "원산지는 맥시코로 성격은 제멋대로이며 소형견이다. 23cm에 2.47kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -477,7 +477,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "파피용",
+            "원산지는 프랑스, 벨기에로 성격은 영리하고 상황판단을 잘하지만 나이브하며 소형견이다. 28cm이하에 5kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -494,7 +494,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "퍼그",
+            "원산지는 중국으로 성격은 애교가 많고 우호적이며 소형견이다. 28cm에 8.1kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -511,7 +511,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "포메라니안",
+            "원산지는 독일로 성격은 쾌활하고 호기심이 왕성하지만 신결질적인 면도 있으며 소형견이다. 22cm에 2.3kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -528,7 +528,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "푸들",
+            "원산지는 프랑스로 성격은 온순하고 쾌활하며 중형견이다. 60cm에 수컷은 25kg 전후 암컷은 23kg 전후까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -545,7 +545,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "풍산개",
+            "원산지는 대한민국으로 성격은 주인을 잘 따르고 용맹하고 영리하며 대견이다. 60cm에 30kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -562,7 +562,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "프렌치 불독",
+            "원산지는 프랑스이며 성격은 호기심이 왕성하고 놀기 좋아하며 소형견이다. 30cm에 14kg까지 자란다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
