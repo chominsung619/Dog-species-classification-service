@@ -74,21 +74,21 @@ st.markdown("""
 
 # 분류에 따라 다른 콘텐츠 관리
 content_data = {
-    labels[0]: {
+    labels[1]: {
         'images': [
-            "https://i.ibb.co/G3z2X2v/image.jpg"
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/G3z2X2v/image.jpg",
+            "https://via.placeholder.com/300?text=Label2_Image2",
+            "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
             "골든 리트리버",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "Label 2 관련 두 번째 텍스트 내용입니다.",
+            "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
@@ -256,7 +256,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "삽살개개",
+            "삽살개",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
