@@ -74,7 +74,7 @@ st.markdown("""
 
 # 분류에 따라 다른 콘텐츠 관리
 content_data = {
-    labels[1]: {
+    labels[0]: {
         'images': [
             "https://i.ibb.co/B2HjP1W/image.webp",
             "https://via.placeholder.com/300?text=Label2_Image2",
