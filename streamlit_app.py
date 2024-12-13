@@ -39,16 +39,16 @@ def display_right_content(prediction, data):
     cols = st.columns(3)
 
     # 1st Row - Images
-    for i in range(3):
+    for i in range(1):
         with cols[i]:
             st.image(data['images'][i], caption=f"이미지: {prediction}", use_container_width=True)
     # 2nd Row - YouTube Videos
-    for i in range(3):
+    for i in range(1):
         with cols[i]:
             st.video(data['videos'][i])
             st.caption(f"유튜브: {prediction}")
     # 3rd Row - Text
-    for i in range(3):
+    for i in range(2):
         with cols[i]:
             st.write(data['texts'][i])
 
@@ -76,19 +76,13 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://i.ibb.co/B2HjP1W/image.webp",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
-        ],
+            "https://i.ibb.co/B2HjP1W/image.webp"
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
             "골든 리트리버",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "Label 2 관련 두 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
